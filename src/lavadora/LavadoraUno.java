@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class LavadoraUno {
     public static void main(String[] args) {
-        
+        //esta el la actuaización de la lavadora
         Scanner entrada = new Scanner(System.in);
         System.out.println("La ropa es blanco o de color");
         System.out.println("Presione 1 si es blanca / presione 2 si es de color");
